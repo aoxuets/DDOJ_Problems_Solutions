@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1546952001 source:d:\programobjectsfiles\cb\ddoj\ddoj1029\main.cpp
+	<iostream>
+	<cstring>
+	<cmath>
+
